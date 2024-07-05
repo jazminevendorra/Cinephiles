@@ -1,6 +1,5 @@
 /*
-	Mary Taboada
-
+	
 	arrUtils.h
 
 	Specification file for the following array functions:
